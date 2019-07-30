@@ -4,8 +4,8 @@ This repository contains the base files for a Production VPC that is setup to cr
 
 Includes:
 
-*Resource File
-*Routing File
-*Security File
-*Variables File
-*IAM Policies in JSON format
+*Resource File<br>
+*Routing File<br>
+*Security File<br>
+*Variables File<br>
+*IAM Policies in JSON format<br>
